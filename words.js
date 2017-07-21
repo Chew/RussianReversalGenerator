@@ -1,4 +1,4 @@
-var lines2 = [
+var lines3 = [
 
     ["In Soviet Russia,"],
 
